@@ -1,0 +1,47 @@
+Input 1:
+google.com
+
+Output 1:
+QUESTION SECTION: 
+google.com.     IN A
+
+ANSWER SECTION: 
+google.com. 300 IN A 172.217.10.238
+
+Query time: 0.055s 
+WHEN: Sun Feb 23 18:04:17 2020
+
+----------------------------------------------
+
+Input 2:
+google.co.jp
+
+Output 2:
+QUESTION SECTION: 
+google.co.jp.     IN A
+
+ANSWER SECTION: 
+google.co.jp.  345600 IN A 216.239.36.10
+
+Query time: 0.238s 
+WHEN: Sun Feb 23 18:05:10 2020
+
+---------------------------------------------
+
+Input 3:
+bilibili.com
+
+Output 3:
+QUESTION SECTION: 
+bilibili.com.     IN A
+
+ANSWER SECTION: 
+bilibili.com. 600 IN A 120.92.78.97
+bilibili.com. 600 IN A 119.3.70.188
+bilibili.com. 600 IN A 139.159.241.37
+bilibili.com. 600 IN A 119.3.238.64
+bilibili.com. 600 IN A 120.92.174.135
+bilibili.com. 600 IN A 110.43.34.66
+
+Query time: 0.271s 
+WHEN: Sun Feb 23 21:13:06 2020
